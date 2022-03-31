@@ -9,7 +9,7 @@
 
 
 	<properties>
-		<springframework.version>4.3.13.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<maven.compiler.version>1.8</maven.compiler.version>
 		<mysql.version>8.0.15</mysql.version>
 		<jackson.version>2.9.8</jackson.version>
